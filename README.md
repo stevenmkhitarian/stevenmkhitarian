@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Steven, a programmer based in Cologne, Germany. I'm currently learning Software and AI Development.
+I am Steven, a programmer and Computer Science graduate based in Cologne, Germany. I'm currently learning Software and AI Development.
 
 
 ![Profile Picture](background_steven.jpeg)
