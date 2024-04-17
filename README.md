@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋
 
 I am Steven, a programmer and Computer Science graduate based in Cologne, Germany. I'm currently learning Software and AI Development.
@@ -5,7 +6,7 @@ I am Steven, a programmer and Computer Science graduate based in Cologne, German
 
 ![Profile Picture](background_steven.jpeg)
 
-<!--
+
 **stevenmkhitarian/stevenmkhitarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
