@@ -1,12 +1,14 @@
 
 ### Hi there 👋
 
-I am Steven, a programmer and Business Computer Science graduate based in Cologne, Germany.
+I am Steven. I develop.
+B. Sc. Business Computer Science: University of Cologne, Germany.
 
-
-![Profile Picture](background_steven.jpeg)
 
 <!--
+![Profile Picture](background_steven.jpeg)
+
+
 **stevenmkhitarian/stevenmkhitarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
