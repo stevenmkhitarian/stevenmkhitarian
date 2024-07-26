@@ -14,7 +14,7 @@
 
 #### University Journey: 
 - B. Sc. Business Computer Science: Graduated in June 2024 @ University of Cologne 👨🏻‍🎓
-- M. Sc. Business Computer Science: Started in October 2024 @ University of Darmstadt 👨🏻‍🎓
+- M. Sc. Business Computer Science: Started in October 2024 @ Technical University of Darmstadt 👨🏻‍🎓
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stevenmkhitarian" alt="stevenmkhitarian" /></a> </p>
 
